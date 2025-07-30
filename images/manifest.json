@@ -6,6 +6,7 @@
 			"sizes": "192x192",
 			"type": "image/png"
 		},
+		
 		{
 			"src": "/images/faviconb-512x512.png",
 			"sizes": "512x512",
