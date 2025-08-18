@@ -11,4 +11,4 @@ Welcome to my website! I am currently a first-year graduate student in the Depar
 
 Please click on the above links to learn more about me. Thank you!
 
-<img src = "amadhava25.github.io/images/IMG-20250817-WA0004.jpg" width = "200">
+<img src = "../images/IMG-20250817-WA0004.jpg" width = "200">
