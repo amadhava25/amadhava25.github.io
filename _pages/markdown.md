@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-[Download CV](https://amadhava25.github.io/files/CV_Jan_2026.pdf)
+[Download CV](https://amadhava25.github.io/files/cv_aug2026.pdf)
 
 # Awards
 1. **SUNY GREAT Award (Stony Brook University; January 2025)** -- Awarded to SUNY Students who either win GRFP fellowships, or to those whose receive GRFP Honorable Mention
